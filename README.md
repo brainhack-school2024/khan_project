@@ -1,5 +1,5 @@
 # khan_project
-<a href="https://github.com/pbellec">
+<a href="https://github.com/khany24">
    <img src="https://avatars.githubusercontent.com/u/103071920?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>Yaseen Khan</b></sub>
 </a>
